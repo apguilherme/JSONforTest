@@ -2,49 +2,145 @@
    {  
       "id":0,
       "name":"Camiseta",
-      "desc":"Camiseta de algodão",
+      "desc":"Camiseta de algodão vermelha",
       "price":10.90,
-      "cat":"Boys",
+      "cat":"Clothes",
       "img":"https://cdna.4imprint.com/prod/extras/006729/391089/700/1.jpg"
+   },
+   {
+      "id":12,
+      "name":"Camiseta PacMan",
+      "desc":"Camiseta de algodão PacMan",
+      "price":17.90,
+      "cat":"Clothes",
+      "img":"https://www.opscamisetas.com.br/media/catalog/product/cache/1/image/500x/9df78eab33525d08d6e5fb8d27136e95/c/a/xcamiseta-pacman-ops-camisetas-min_2_1.jpg.pagespeed.ic.xV1Pndadr-.jpg"
+   },
+   {
+      "id":13,
+      "name":"Camiseta",
+      "desc":"Camiseta de algodão várias cores",
+      "price":5.90,
+      "cat":"Clothes",
+      "img":"https://http2.mlstatic.com/kit-10-camisetas-masculinas-blusa-camisa-slim-fit-lisa-basic-D_NQ_NP_996493-MLB31098628232_062019-Q.jpg"
+   },
+   {
+      "id":14,
+      "name":"Camiseta Proteção Solar",
+      "desc":"Camiseta com proteção UV",
+      "price":29.90,
+      "cat":"Clothes",
+      "img":"https://www.mprotect.com.br/img/2018/04/produto/184/1/home/camiseta-uv-acqua-sport-marinho-feminina-longa-zoom.jpg"
+   },
+   {
+      "id":15,
+      "name":"Camiseta Básica",
+      "desc":"Camiseta com estampa",
+      "price":20.30,
+      "cat":"Clothes",
+      "img":"https://www.mprotect.com.br/img/2018/04/produto/184/1/home/camiseta-uv-acqua-sport-marinho-feminina-longa-zoom.jpghttp://www.aswracing.com.br/wp-content/uploads/2019/08/camiseta_asw_moto-320x320.png"
+   },
+   {
+      "id":16,
+      "name":"Camiseta Psy",
+      "desc":"Camiseta com estampa psy",
+      "price":12.30,
+      "cat":"Clothes",
+      "img":"https://www.oxiskateboards.com.br/img/products/camiseta-oxi-tie-dye_1_240.jpg"
+   },
+   {
+      "id":17,
+      "name":"Camiseta Roots",
+      "desc":"Camiseta com estampa roots",
+      "price":15.70,
+      "cat":"Clothes",
+      "img":"https://img.elo7.com.br/product/zoom/1B53458/t-shirts-femininas-chocker-apanhador-dos-sonhos-camisetas-personalizadas.jpg"
+   },
+   {
+      "id":18,
+      "name":"Camiseta Bowie",
+      "desc":"Camiseta com estampa Bowie",
+      "price":19.80,
+      "cat":"Clothes",
+      "img":"https://cdn.simplo7.net/static/29141/sku/camisetas-femininas-camiseta-rock-feminina-david-bowie-1556031068314.png"
    },
    {  
       "id":1,
-      "name":"Calça",
-      "desc":"Calça legal",
+      "name":"Calça Masculina",
+      "desc":"Calça esportiva masculina",
       "price":23.99,
-      "cat":"Boys",
+      "cat":"Clothes",
       "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9bse6q93xk0zXwud3TQIoIEiglFL85Tae5wZPMC9ggU8nacZR"
+   },
+   {  
+      "id":19,
+      "name":"Calça Feminina",
+      "desc":"Calça de moletom feminina",
+      "price":23.99,
+      "cat":"Clothes",
+      "img":"https://assets.xtechcommerce.com/uploads/images/medium/52b3bdd5730fcb4f6451149f3af2b20e.jpg"
    },
    {  
       "id":2,
       "name":"Mochila",
-      "desc":"Mochila estudante",
+      "desc":"Mochila Estudante",
       "price":14.90,
-      "cat":"Unissex",
+      "cat":"Bags",
       "img":"https://5.imimg.com/data5/RK/LT/MY-2379745/rexine-school-bag-500x500.png"
    },
    {  
+      "id":20,
+      "name":"Mochila Notebook",
+      "desc":"Mochila para notebook",
+      "price":34.90,
+      "cat":"Bags",
+      "img":"https://images-americanas.b2w.io/produtos/01/00/item/133683/5/133683503_1GG.jpg"
+   },
+   {  
+      "id":21,
+      "name":"Mochila Girls",
+      "desc":"Mochila para estudantes",
+      "price":40.90,
+      "cat":"Bags",
+      "img":"https://www.socourus.com.br/media/catalog/product/cache/1/image/1200x1200/9df78eab33525d08d6e5fb8d27136e95/c/g/cg9150-pk-1-mochila-juvenil-escolar-flaminfgo-clio-socourus.jpg"
+   },
+   {  
       "id":3,
-      "name":"Sapato",
-      "desc":"Sapato masculino",
+      "name":"Sapato Masculino",
+      "desc":"Sapato social",
       "price":38.95,
-      "cat":"Boys",
+      "cat":"Shoes",
       "img":"https://dipollini.vteximg.com.br/arquivos/ids/166495-1000-1000/FNK400_Sapato_Social_dipollini_Couro_Vitello_Italiano_Preto_1.jpg?v=636213724296100000s"
+   },
+   {  
+      "id":22,
+      "name":"Sapato Feminino",
+      "desc":"Sapato salto alto",
+      "price":38.95,
+      "cat":"Shoes",
+      "img":"https://cdnv2.moovin.com.br/awallon/imagens/produtos/original/sapato-vizzano-1143309-pretocamel-69a358537bb070010fee98e020fd891c.jpg"
+   },
+   {  
+      "id":4,
+      "name":"Boné preto",
+      "desc":"Boné casual",
+      "price":23.99,
+      "cat":"Hats",
+      "img":"http://cdn.shopify.com/s/files/1/0023/7263/2634/products/4308_BLACK_1200x1200.jpg?v=1547766338"
    },
    {  
       "id":4,
       "name":"Boné",
-      "desc":"Boné estiloso",
+      "desc":"Boné sem estampa",
       "price":23.99,
-      "cat":"Boys",
-      "img":"http://cdn.shopify.com/s/files/1/0023/7263/2634/products/4308_BLACK_1200x1200.jpg?v=1547766338"
+      "cat":"Hats",
+      "img":"https://images.tcdn.com.br/img/img_prod/570534/bone_liso_aba_curva_anth_co_tela_branco_bordo_1576_1_20180719232001.jpg"
    },
    {  
       "id":5,
       "name":"Bota",
       "desc":"Bota de couro",
       "price":14.95,
-      "cat":"Girls",
+      "cat":"Shoes",
       "img":"https://images-na.ssl-images-amazon.com/images/I/41DdSK9WkSL._SY395_QL70_.jpg"
    },
    {  
@@ -52,7 +148,7 @@
       "name":"Saia",
       "desc":"Saia garotas",
       "price":10.99,
-      "cat":"Girls",
+      "cat":"Clothes",
       "img":"https://www.dancinginthestreet.com/imagecache/e353495e-91c0-450a-a635-a723008ae654_800x800.jpg"
    },
    {  
@@ -60,7 +156,7 @@
       "name":"Cueca",
       "desc":"Cueca masculina",
       "price":38.95,
-      "cat":"Boys",
+      "cat":"Clothes",
       "img":"https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1552514378-moisture-wicking-underwear-10-1552514364.jpg?crop=1xw:1xh;center,top&resize=480:*"
    },
    {  
@@ -68,15 +164,15 @@
       "name":"Jaqueta",
       "desc":"Jaqueta top",
       "price":10.99,
-      "cat":"Unissex",
+      "cat":"Clothes",
       "img":"https://www.patagonia.com/dis/dw/image/v2/ABBM_PRD/on/demandware.static/-/Sites-patagonia-master/default/dw0b78138c/images/hi-res/27805_COI.jpg?sw=750&sh=750&sm=fit&sfrm=png"
    },
    {  
       "id":9,
       "name":"Meias",
-      "desc":"Meias sujas",
+      "desc":"Meias fitness",
       "price":23.99,
-      "cat":"Unissex",
+      "cat":"Shoes",
       "img":"https://cdn.shopify.com/s/files/1/1565/1561/products/GripGrab-M3016-Waterproof-Merino-Thermal-Sock-black-grey-01_2000x.jpg?v=1535020564"
    },
    {  
@@ -84,7 +180,7 @@
       "name":"Chapéu",
       "desc":"Chapéu clássico",
       "price":14.95,
-      "cat":"Girls",
+      "cat":"Hats",
       "img":"https://cdn.webshopapp.com/shops/267873/files/262280375/480x480x2/antique-silk-top-hat.jpg"
    },
    {  
@@ -92,7 +188,39 @@
       "name":"Bermuda",
       "desc":"Bermuda verão",
       "price":38.95,
-      "cat":"Boys",
+      "cat":"Clothes",
       "img":"https://cdn.shopify.com/s/files/1/0481/8629/products/EDS_Fog_Front_600x.jpg?v=1539738336"
+   },
+   {  
+      "id":23,
+      "name":"Relógio",
+      "desc":"Relógio analógico",
+      "price":35.95,
+      "cat":"Accessories",
+      "img":"https://http2.mlstatic.com/relogio-masculino-casual-esportivo-luxo-crrju-a-prova-dagua-D_NQ_NP_813336-MLB29678049541_032019-Q.jpg"
+   },
+   {  
+      "id":24,
+      "name":"Relógio",
+      "desc":"Relógio digital",
+      "price":23.25,
+      "cat":"Accessories",
+      "img":"https://images-submarino.b2w.io/produtos/01/00/item/113374/0/113374009_1GG.jpg"
+   },
+   {  
+      "id":25,
+      "name":"Pulseira",
+      "desc":"Pulseira folheada",
+      "price":45.95,
+      "cat":"Accessories",
+      "img":"https://franciscajoias.vteximg.com.br/arquivos/ids/167626-1000-1000/Pulseira-com-dupla-volta-e-ponto-de-luz-folheado-em-ouro-18k.jpg?v=636592348284070000"
+   },
+   {  
+      "id":26,
+      "name":"Óculos",
+      "desc":"Óculos de sol",
+      "price":28.40,
+      "cat":"Accessories",
+      "img":"https://www.territoriomasculino.com/wp-content/uploads/2018/08/oculos-shades-redondo-vertical.jpg"
    }
 ]
