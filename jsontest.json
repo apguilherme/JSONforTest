@@ -1,0 +1,98 @@
+[  
+   {  
+      "id":0,
+      "name":"Camiseta",
+      "desc":"Camiseta de algodão",
+      "price":10.90,
+      "cat":"Boys",
+      "img":"https://cdna.4imprint.com/prod/extras/006729/391089/700/1.jpg"
+   },
+   {  
+      "id":1,
+      "name":"Calça",
+      "desc":"Calça legal",
+      "price":23.99,
+      "cat":"Boys",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9bse6q93xk0zXwud3TQIoIEiglFL85Tae5wZPMC9ggU8nacZR"
+   },
+   {  
+      "id":2,
+      "name":"Mochila",
+      "desc":"Mochila estudante",
+      "price":14.90,
+      "cat":"Unissex",
+      "img":"https://5.imimg.com/data5/RK/LT/MY-2379745/rexine-school-bag-500x500.png"
+   },
+   {  
+      "id":3,
+      "name":"Sapato",
+      "desc":"Sapato masculino",
+      "price":38.95,
+      "cat":"Boys",
+      "img":"https://dipollini.vteximg.com.br/arquivos/ids/166495-1000-1000/FNK400_Sapato_Social_dipollini_Couro_Vitello_Italiano_Preto_1.jpg?v=636213724296100000s"
+   },
+   {  
+      "id":4,
+      "name":"Boné",
+      "desc":"Boné estiloso",
+      "price":23.99,
+      "cat":"Boys",
+      "img":"http://cdn.shopify.com/s/files/1/0023/7263/2634/products/4308_BLACK_1200x1200.jpg?v=1547766338"
+   },
+   {  
+      "id":5,
+      "name":"Bota",
+      "desc":"Bota de couro",
+      "price":14.95,
+      "cat":"Girls",
+      "img":"https://images-na.ssl-images-amazon.com/images/I/41DdSK9WkSL._SY395_QL70_.jpg"
+   },
+   {  
+      "id":6,
+      "name":"Saia",
+      "desc":"Saia garotas",
+      "price":10.99,
+      "cat":"Girls",
+      "img":"https://www.dancinginthestreet.com/imagecache/e353495e-91c0-450a-a635-a723008ae654_800x800.jpg"
+   },
+   {  
+      "id":7,
+      "name":"Cueca",
+      "desc":"Cueca masculina",
+      "price":38.95,
+      "cat":"Boys",
+      "img":"https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1552514378-moisture-wicking-underwear-10-1552514364.jpg?crop=1xw:1xh;center,top&resize=480:*"
+   },
+   {  
+      "id":8,
+      "name":"Jaqueta",
+      "desc":"Jaqueta top",
+      "price":10.99,
+      "cat":"Unissex",
+      "img":"https://www.patagonia.com/dis/dw/image/v2/ABBM_PRD/on/demandware.static/-/Sites-patagonia-master/default/dw0b78138c/images/hi-res/27805_COI.jpg?sw=750&sh=750&sm=fit&sfrm=png"
+   },
+   {  
+      "id":9,
+      "name":"Meias",
+      "desc":"Meias sujas",
+      "price":23.99,
+      "cat":"Unissex",
+      "img":"https://cdn.shopify.com/s/files/1/1565/1561/products/GripGrab-M3016-Waterproof-Merino-Thermal-Sock-black-grey-01_2000x.jpg?v=1535020564"
+   },
+   {  
+      "id":10,
+      "name":"Chapéu",
+      "desc":"Chapéu clássico",
+      "price":14.95,
+      "cat":"Girls",
+      "img":"https://cdn.webshopapp.com/shops/267873/files/262280375/480x480x2/antique-silk-top-hat.jpg"
+   },
+   {  
+      "id":11,
+      "name":"Bermuda",
+      "desc":"Bermuda verão",
+      "price":38.95,
+      "cat":"Boys",
+      "img":"https://cdn.shopify.com/s/files/1/0481/8629/products/EDS_Fog_Front_600x.jpg?v=1539738336"
+   }
+];
