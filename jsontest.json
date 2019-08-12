@@ -2,15 +2,15 @@
    {  
       "id":0,
       "name":"Camiseta",
-      "desc":"Camiseta de algod„o",
+      "desc":"Camiseta de algod√£o",
       "price":10.90,
       "cat":"Boys",
       "img":"https://cdna.4imprint.com/prod/extras/006729/391089/700/1.jpg"
    },
    {  
       "id":1,
-      "name":"CalÁa",
-      "desc":"CalÁa legal",
+      "name":"Cal√ßa",
+      "desc":"Cal√ßa legal",
       "price":23.99,
       "cat":"Boys",
       "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9bse6q93xk0zXwud3TQIoIEiglFL85Tae5wZPMC9ggU8nacZR"
@@ -33,8 +33,8 @@
    },
    {  
       "id":4,
-      "name":"BonÈ",
-      "desc":"BonÈ estiloso",
+      "name":"Bon√©",
+      "desc":"Bon√© estiloso",
       "price":23.99,
       "cat":"Boys",
       "img":"http://cdn.shopify.com/s/files/1/0023/7263/2634/products/4308_BLACK_1200x1200.jpg?v=1547766338"
@@ -81,8 +81,8 @@
    },
    {  
       "id":10,
-      "name":"ChapÈu",
-      "desc":"ChapÈu cl·ssico",
+      "name":"Chap√©u",
+      "desc":"Chap√©u cl√°ssico",
       "price":14.95,
       "cat":"Girls",
       "img":"https://cdn.webshopapp.com/shops/267873/files/262280375/480x480x2/antique-silk-top-hat.jpg"
@@ -90,9 +90,9 @@
    {  
       "id":11,
       "name":"Bermuda",
-      "desc":"Bermuda ver„o",
+      "desc":"Bermuda ver√£o",
       "price":38.95,
       "cat":"Boys",
       "img":"https://cdn.shopify.com/s/files/1/0481/8629/products/EDS_Fog_Front_600x.jpg?v=1539738336"
    }
-];
+]
